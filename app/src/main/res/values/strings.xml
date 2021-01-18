@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shameless Self-promo App</string>
+    <string name="hint_display_name">Display Name</string>
+    <string name="text_include_junior">Include \'Junior\'</string>
+    <string name="hint_contact_number">Contact Number</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="text_immediate_start">Immediate Start</string>
+    <string name="hint_available_from_date">Available From Date</string>
+    <string name="text_preview_message">Preview Message</string>
+    <string name="text_send_message">Send Message</string>
+</resources>
